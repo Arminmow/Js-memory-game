@@ -1,0 +1,7 @@
+.grid-item {
+    border: 15px solid aqua;
+    border-radius: 5%;
+    box-sizing: border-box;
+    background: darkblue;
+    cursor: pointer;
+}

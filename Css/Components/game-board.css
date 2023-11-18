@@ -1,0 +1,11 @@
+#game-board {
+
+    width: 95%;
+    /*height: 70%;*/
+    aspect-ratio: 1/1;
+    display: grid;
+    gap: 10px;
+    grid-template-columns: repeat(5,1fr);
+    grid-template-rows: repeat(5,1fr);
+
+}
