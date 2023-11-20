@@ -1,7 +1,8 @@
 .grid-item {
-    border: 15px solid aqua;
+    border: 15px solid darkblue;
     border-radius: 5%;
     box-sizing: border-box;
-    background: darkblue;
+    background: lightblue;
     cursor: pointer;
+    background-size: 100%;
 }
